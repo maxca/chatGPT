@@ -1,0 +1,12 @@
+- history of chatGPT
+- best practices to promt in th chatGPT
+- coding with chatGPT
+ - find the idea
+ - setup environment
+ - create the exmple code 
+ - create the unit tests
+ - refactor the code 
+- create the game with chatGPT
+- create the slide with chatGPT
+- setup the server with chatGPT
+- trick for use the chatGPT with commonthink
